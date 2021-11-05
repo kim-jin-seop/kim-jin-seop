@@ -56,3 +56,5 @@
   <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jin-seop&layout=compact&theme=buefy&hide_border=true" /></a></td>
   </tr>
 </table>
+
+<!-- 로고 생성 https://simpleicons.org/-->
