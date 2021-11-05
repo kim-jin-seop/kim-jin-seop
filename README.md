@@ -32,5 +32,9 @@
   <img src="http://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://keras.io//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
 
+<table>
+  <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a></td>
+  <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jin-seop&layout=compact&theme=buefy&hide_border=true" /></a></td>
+</table>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jin-seop&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
