@@ -29,5 +29,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="http://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://keras.io//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </p>
+
 ![jinseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jin-seop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
