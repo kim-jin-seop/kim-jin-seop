@@ -1,5 +1,6 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=21bacc&height=200&section=header&text=JinSeop%20Kim&fontSize=65&fontColor=0b2e3d)
-
+</p>
 
 <h3 align="center">✋ My 🤚</h3>
 <p align="center">
