@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kim-jin-seop/kim-jin-seop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![jinseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&theme=radical)
+<a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+
+![jinseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&theme=highcontrast)
