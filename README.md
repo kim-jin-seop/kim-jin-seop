@@ -10,8 +10,8 @@
 </p>
 <p align="center">
   👋 Hi there! I'm <b>back-end developer</b> using Java Spring and Jpa. 🚀<br/>
-  🔭 I’m currently working on army💂‍♂️<br/>
   🌱 I’m currently learning Algorithm & Spring & JPA🌱<br/>
+  🔭 I’m currently working on army💂‍♂️<br/>
 </p>
 </br>
 
