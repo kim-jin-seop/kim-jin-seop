@@ -8,9 +8,9 @@
   <a href="https://www.instagram.com/dear_seop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dear_seop/"/></a>
 </p>
 <p align="center">
-  👋 Hi there! I'm <b>back-end developer</b> using Java Spring and Jpa. 🚀<br/>
-  🌱 I’m currently learning Algorithm & Spring & JPA🌱<br/>
-  🔭 I’m currently working on army💂‍♂️<br/>
+  👋 Hi there! I'm <b>back-end developer</b> using Java Spring and JPA 🚀<br/>
+  🌱 I’m currently learning Algorithm & Spring & JPA 🌱<br/>
+  🔭 I’m currently working on army 💂‍♂️<br/>
 </p>
 </br>
 
