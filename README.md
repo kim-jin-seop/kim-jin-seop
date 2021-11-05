@@ -3,11 +3,10 @@
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
 </p>
 
-<p>
+<p align="center">
   👋 Hi there! I'm <b>back-end developer</b> using Java Spring and Jpa. 🚀<br/>
-  🔭 I’m currently working on army💂‍♂️.<br/>
-  🌱 I’m currently learning etc.<br/>
-  ✨ I hope to develop every beautiful things.<br/><br/>
+  🔭 I’m currently working on army💂‍♂️<br/>
+  🌱 I’m currently learning etc🌱<br/>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
