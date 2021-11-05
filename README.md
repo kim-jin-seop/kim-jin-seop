@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![jinseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&theme=highcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jin-seop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
