@@ -7,7 +7,7 @@
   👋 Hi there! I'm <b>back-end developer</b> using Java Spring and Jpa. 🚀<br/>
   🔭 I’m currently working on army.<br/>
   🌱 I’m currently learning etc.<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  ✨ I hope to develop every beautiful things.<br/><br/>
 </p>
 
 ![jinseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&theme=highcontrast)
