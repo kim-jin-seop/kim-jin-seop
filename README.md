@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://cnu-jinseop.tistory.com/"/></a>
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
+  [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](www.facebook.com/profile.php?id=100010160433979) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dear_seop/)](https://www.instagram.com/dear_seop/) 
 </p>
 <p align="center">
   👋 Hi there! I'm <b>back-end developer</b> using Java Spring and Jpa. 🚀<br/>
