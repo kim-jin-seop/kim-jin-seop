@@ -1,20 +1,13 @@
-<!--
-**kim-jin-seop/kim-jin-seop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p>
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>
+</p>
+
+<p>
+  👋 Hi there! I'm <b>back-end developer</b> using Java Spring and Jpa. 🚀<br/>
+  🔭 I’m currently working on army.  
+  🌱 I’m currently learning etc.  
+  I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
 ![jinseop's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&theme=highcontrast)
