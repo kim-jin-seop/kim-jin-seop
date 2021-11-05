@@ -15,9 +15,14 @@
 </br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've used at least once </p>
-
+<p align="center"> 잘사용하는 언어 </p>
 <p align="center">
+  
+</p>
+  
+<p align="center"> Techs that I've used at least once </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -34,6 +39,9 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="http://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://keras.io//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+
 </p>
 
 <table align = "center">
