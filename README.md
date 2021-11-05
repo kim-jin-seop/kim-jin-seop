@@ -35,6 +35,7 @@
   <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="http://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://keras.io//?hl=ko"style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
