@@ -37,3 +37,5 @@
   <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a></td>
   <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jin-seop&layout=compact&theme=buefy&hide_border=true" /></a></td>
 </table>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjq2702)](https://solved.ac/tjq2702/)
