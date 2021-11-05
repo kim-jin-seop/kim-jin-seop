@@ -1,6 +1,6 @@
 <p>
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
+  <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
 </p>
 
 <p>
