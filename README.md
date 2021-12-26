@@ -1,8 +1,6 @@
 
 <p align = "center">
 <a href="https://solved.ac/tjq2702/"><img align="center" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=tjq2702"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a>
-</br>
 </p>
 
 <h3 align="center">✋ My 🤚</h3>
@@ -19,4 +17,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> -->
+</p>
+<p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a>
 </p>
