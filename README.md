@@ -22,5 +22,5 @@
   <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> -->
 </p>
 
-<a href="https://solved.ac/tjq2702/"><img align="center" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=tjq2702"></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a>
+<a align="center" href="https://solved.ac/tjq2702/"><img align="center" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=tjq2702"></a>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-jin-seop&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JinSeop's github stats" /></a>
