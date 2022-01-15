@@ -5,9 +5,6 @@
   <a href="https://www.facebook.com/JinSeopDev" target = "_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JinSeopDev"/></a>
   <a href="https://www.instagram.com/dear_seop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dear_seop/"/></a>
 </p>
-<p align = "center">
-  <a href="https://solved.ac/tjq2702/"><img align="center" src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=tjq2702"></a>
-</p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
