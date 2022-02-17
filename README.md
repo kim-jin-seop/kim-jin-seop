@@ -3,7 +3,6 @@
   <a href="https://cnu-jinseop.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-gray?style=flat-square&logo=TV%20Time&logoColor=white&link=https://cnu-jinseop.tistory.com/"/></a>
   <a href="mailto:tjq2702@naver.com" target="_blank"><img src="https://img.shields.io/badge/tjq2702@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=tjq2702@naver.com"/></a>
   <a href="https://www.facebook.com/JinSeopDev" target = "_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JinSeopDev"/></a>
-  <a href="https://www.instagram.com/dear_seop/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dear_seop/"/></a>
 </p>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
